@@ -52,9 +52,6 @@ public class EmailManager {
 	}
 
 
-
-
-
 	public void sendEmail(String receiver, String destinationAddress, String subject, String message)
 			throws IOException {
 //        log.info(String.format("Send Email to %s", destinationAddress));
