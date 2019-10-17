@@ -25,6 +25,7 @@ public class EmailManager {
 //	private String host = "aspmx.l.google.com";
 	
 	//add comment more.
+	//add second comment.
 
 	/** port */
 //	private int port = 587;
