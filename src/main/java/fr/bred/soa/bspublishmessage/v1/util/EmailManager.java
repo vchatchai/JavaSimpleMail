@@ -23,6 +23,8 @@ public class EmailManager {
 	/** email server */
 	private String host = "smtp.gmail.com";
 //	private String host = "aspmx.l.google.com";
+	
+	//add comment more.
 
 	/** port */
 //	private int port = 587;
